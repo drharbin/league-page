@@ -2,17 +2,17 @@
 export const leagueID = "1256715455947608064"; // your league ID
 export const leagueName = "The Dudes"; // your league name
 export const dues = 25; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>It began, as all great legends do, with a single group text between a bunch of ragtag people. Eight acquaintances, bound by mutual friends, inside jokes, bad trades, and many secrets from Bachelor parties who decided to forge something greater then mere fandom. On a random day in 2023, beneath the glow of their screens, they created "The Dudes League" - a fantasy football battle ground where rivalries would be reborn and legends would rise. </p>
+  <p>They gathered not in a castle or a tavern, or even in the same city but in a group chat. Each manager swore an oath: to talk trash with honor, to never auto-draft, and to fight unitl the final whistle of week 17. The draft board gleamed like Excaliber itself. Picks flew, strategies clashed, trades completed, and sleepers were stolen in the night.</p>
+  <p>As each season unfolds, friendships will be tested. One by one, titans will fall - undone by injury reports, bye week chaos, or the cruel hand of Monday night miracles. But admist the heartbreak and hilarity, bonds will grow stonger. Trade negotiations will become diplomacy. Victory speeches will turn into war cries. And those who finish last will wear their shame like a badge of honor as they complete their punishment... becuase in this league, every matchup matters.</p>
+  <p>By the time playoffs come, the League will be more than a game. It is the tradition. The legacy. The family.</p>
+  <p>And so, each year, when the first kickoff light up the autumn sky, the eight will return - older, wiser, but no less competitive - to draft again. Even though some rivalries fade, our league will be forever. </p>
+  <p>Welcome to the league.</p>
 `;
 
 /*   STEP 3   */
