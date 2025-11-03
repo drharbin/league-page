@@ -274,6 +274,8 @@
 <p>A grid of nine punishments was drafted and finalized before the season start of the 2025 season. There are as follows.</p>
     <ol>
         <li>Puzzle</li>
+<p>1. A 1000 piece puzzle is to be completed in almost complete darkness. He is not to leave the room until the puzzle is completed. He is to be allowed 2 bathroom breaks during the duration of the puzzle attempt. The loser will start with one candle light upon opening the box and one more candle will be added to his lighting for every 100 pieces he is to piece together. He will need to keep a tally or count the number of pieces in order to get another candle lit. Based off of the members of the league, the attempt will need to be either livestreamed on Facetime or recorded and distributed in order to attest that the puzzle is complete without any cheating or rule breaking.</p>
+
         <li>Beer Mile</li>
         <li>5K in Hallowen Cosutume</li>
         <li>Spray Tan</li>
@@ -283,7 +285,18 @@
         <li>ACT</li>
         <li>Hot Ones Challenge</li>
 
-    <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
+    <h3 bind:this={fourTwo}>4.4 Punishment Explanations</h3>
+<p>1. A 1000 piece puzzle is to be completed in almost complete darkness. He is not to leave the room until the puzzle is completed. He is to be allowed 2 bathroom breaks during the duration of the puzzle attempt. The loser will start with one candle light upon opening the box and one more candle will be added to his lighting for every 100 pieces he is to piece together. He will need to keep a tally or count the number of pieces in order to get another candle lit. Based off of the members of the league, the attempt will need to be either livestreamed on Facetime or recorded and distributed in order to attest that the puzzle is complete without any cheating or rule breaking.</p>
+<p>2. The beer mile is consist of 4 Beers and 4 Laps (one mile). Each lap is to be 400m in length and to be preceded by a beer. The runner will start with a beer and finish the beer before starting to run the first lap; this will be repeated 4 times. The beers or alcoholic beverages  need to be a minimum of 12 fl. oz, a minium of 5.0% ABV, and canned or bottled (no draft beers or wide mouth cans). If the runner is to leave for the lap before the beer is confirmed empty, there will be a penalty. If there is excessive spilling, there will be a penalty. To prove that there is an empty can, the runner is to hold the empty can abover their head upside down. The goal is to have all four beers consumed and the mile completed under a time frame of 12 mintues. If the runner is unable to get this completed within the time frame set by the league, he is to repeat the attempt as many times as needed for a successful attempt.</p>
+<p>3.
+<p>4.
+<p>5.
+<p>6.
+<p>7.
+<p>8.
+<p>9. 
+
+   <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
     
     <h3 bind:this={fiveOne}>5.1 League Tanking Policy</h3>
     <p>No team may intentionally leave starting roster spots empty. Any evidence of intentionally leaving roster spots empty in order to improve your draft position may be subject to punishment, including but not limited to the forfeiture of draft selections.</p>
