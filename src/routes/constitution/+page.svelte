@@ -255,8 +255,9 @@
     <h2 class="sectionHeading" bind:this={four}>Section 4 Postseason</h2>
     
     <h3 bind:this={fourOne}>4.1 Playoffs</h3>
-    <p>At the end of the season 6 teams will make the playoffs. The first round of playoffs will commence in week 15. Each team that wins their division and the 4 wild card teams that finish with the best records, will receive a playoff berth. The 2 teams that win their division will receive a bye week in the first round of the playoffs. Each playoff matchup will only last one week and the winner will advance. Week 18 will not be used.</p>
-    
+    <p>At the end of the season 6 teams will make the playoffs. The first round of playoffs will commence in week 15. The top two teams, according to the standings, will receive a bye week. The remaining four teams will be seeded accordingly.  Each playoff matchup will only last one week and the winner will advance. Week 18 will not be used.</p>
+    <p>The last two teams, according to the standings after week 14, will play each other in the toilet bowl. The toilet bowl will be one game that is played during week 15. The loser of this, is the loser of the league and will be subjected to a punishment.</p>
+
     <h3 bind:this={fourTwo}>4.2 Seeding Tiebreakers</h3>
     <p>If two teams finish with the same record the tiebreakers will go as followed:</p>
 
@@ -269,6 +270,19 @@
         <li>Duel to the death</li>
     </ol>
 
+    <h3 bind:this={fourTwo}>4.3 Punishment</h3>
+<p>A grid of nine punishments was drafted and finalized before the season start of the 2025 season. There are as follows.</p>
+    <ol>
+        <li>Puzzle</li>
+        <li>Beer Mile</li>
+        <li>5K in Hallowen Cosutume</li>
+        <li>Spray Tan</li>
+        <li>Mcdonald's Challenge</li>
+        <li>Buy Rounds</li>
+        <li>Open Mic Night</li>
+        <li>ACT</li>
+        <li>Hot Ones Challenge</li>
+
     <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
     
     <h3 bind:this={fiveOne}>5.1 League Tanking Policy</h3>
@@ -280,7 +294,7 @@
     <p>Short of continuously failing to set a valid lineup, or confirmed collusion, no manager can be removed against their will. Participation, through the league chat, trade offers, and the waiver wire, is strongly encouraged but generally grounds for removal.</p>
     
     <h3 bind:this={sixTwo}>6.2 Replacing Managers</h3>
-    <p>When a manager needs to be replaced, the commisiooners will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a dynasty commitment and will be very active within the league.</p>
+    <p>When a manager needs to be replaced, the commisiooners will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a keeper league commitment and will be very active within the league.</p>
     
     <h3 bind:this={sixThree}>6.3 Replacement Incentive</h3>
     <p>In the event that a manager chooses to quit the league or is removed by a comissioner, an incoming manager is offered a 50% reductioon on their first year buy-in.</p>
@@ -288,18 +302,18 @@
     <h2 class="sectionHeading" bind:this={seven}>Section 7 League Finances</h2>
     
     <h3 bind:this={sevenOne}>7.1 League Dues</h3>
-    <p>League dues are set at {dues}$. Dues are collected through <a href="https://www.leaguesafe.com/league/3949641">LeagueSafe</a> and collection will be sent out no later than the first of August. All managers must be fully paid up before the start of regular season. In the event that a manager fails to pay before the deadline, a 10% penalty will be addd to their payment and will go towards the payouts at the end of the year.</p>
+    <p>League dues are set at {25}$. Dues are collected through Venmo and collection will be sent out no later than the first of August. All managers must be fully paid up before the start of regular season. In the event that a manager fails to pay before the deadline, a 10% penalty will be addd to their payment and will go towards the payouts at the end of the year.</p>
     
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
     <p>League payout is structured as follows:</p>
     <ul>
-        <li>1st place: {dues * 8}$</li>
-        <li>2nd place: {dues * 3}$</li>
+        <li>1st place: {dues * 7}$</li>
+        <li>2nd place: {dues * 2}$</li>
         <li>3rd place: {dues}$</li>
     </ul>
     <p>In the event that a manager was fined due to late payment, their extra fee will be added to the winner's payout. Similarly, if new managers come into the league and the payout is smaller, the difference will come out of the winner's prize.</p>
     
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
-    <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
+    <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is recommended.</p>
 
 </div>
